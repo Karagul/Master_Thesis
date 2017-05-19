@@ -1,2 +1,0 @@
-Month	Percentage
-January	0.0457February	0.0226March	-0.0324April	0.0006May	0.0192June	0.0371July	0.0177August	-0.0016September	0.0018October	0.0697November	0.0617December	0.0484
